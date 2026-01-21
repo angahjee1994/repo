@@ -395,10 +395,30 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "WOW",
         "description": "Premium Porn Videos",
         "url": "https://github.com/angahjee1994/repo/raw/refs/heads/main/WOW.cs3",
         "name": "WOW"
+    },
+    {
+        "iconUrl": "https://www.dramabox.com/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/angahjee1994/repo",
+        "fileSize": 16975,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Danzybae"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Dramabox",
+        "description": "TV Short Drama",
+        "url": "https://github.com/angahjee1994/repo/raw/refs/heads/main/Dramabox.cs3",
+        "name": "Dramabox"
     }
 ]
