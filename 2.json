@@ -402,12 +402,12 @@
         "name": "WOW"
     },
     {
-        "iconUrl": "https://www.dramabox.com/favicon.ico",
+        "iconUrl": "https://raw.githubusercontent.com/angahjee1994/repo/refs/heads/main/logodb.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/angahjee1994/repo",
         "fileSize": 16975,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
             "Danzybae"
         ],
